@@ -1,5 +1,4 @@
 # :lock:	Generador de contraseñas	
-Link directo al proyecto: 
 
 
 
